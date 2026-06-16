@@ -103,6 +103,10 @@ results/                 generated outputs
 scripts/                 smoke-test and full-rebuild helpers
 ```
 
+## Acknowledgments
+
+LLMs were used to assist with code cleanup, repository organization, documentation, and reproducibility checks. The scientific method, implementation choices, numerical results, and final code review remain the responsibility of the author.
+
 ## License and Citation
 
 The code is released under the MIT License; see `LICENSE`. Citation metadata
